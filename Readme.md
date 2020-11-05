@@ -39,12 +39,14 @@ Technologies used: -
 3. Chatbot
 4. Responsive Web Application
 
-### Please follow the instructions in _configurations.txt_ file for smooth configuration of the project.
+# NOTE: -
 
-### Please check the __*misc*__ directory for the _**ML**_ **implementation**.
+### 1. Please follow the instructions in _configurations.txt_ file for smooth configuration of the project.
 
-### Please watch out for Readme.md files in the folder, '_docs_', '_source code_', and '_misc_'.
+### 2. Please check the __*misc*__ directory for the _**ML**_ **implementation**.
 
-## A view of the web Application
+### 3. Please watch out for Readme.md files in the folder, '_docs_', '_source code_', and '_misc_'.
+
+# A view of the web Application
 
 ![Image of the webapp](https://github.com/nishanthshastry/SmartAGRI/blob/main/webapp.png)
