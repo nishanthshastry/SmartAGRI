@@ -39,6 +39,7 @@ Technologies used: -
 3. Chatbot
 4. Responsive Web Application
 
+### Please follow the instructions in _configurations.txt_ file for smooth configuration of the project.
 
 ### Please check the __*misc*__ directory for the _**ML**_ **implementation**.
 
