@@ -44,3 +44,4 @@ Technologies used: -
 
 ## A view of the web Application
 
+![Image of the webapp](https://github.com/nishanthshastry/SmartAGRI/blob/main/webapp.png)
