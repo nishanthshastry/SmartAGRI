@@ -10,7 +10,7 @@
 
 ## Step 2: - 
 
-In line **135** and **136**,
+In line **135** and **136**, in the file '**settings.py**', in the folder '**django_project**',
 
 ```
     EMAIL_HOST_USER = ''   # type email of your gmail account
