@@ -1,0 +1,7 @@
+# run the below command
+
+pip install -r dependencies.txt
+
+# This will install all the below technologies
+# Django, django-crispy-forms, pillow
+# These above technologies are used to create the web app and area must.
