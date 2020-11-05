@@ -132,8 +132,8 @@ LOGIN_URL = 'login'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'djangoblog2020@gmail.com'   #gmail password - @SmartAgri@123s
-EMAIL_HOST_PASSWORD = 'dvrbyuriwzcjatsf'       #SmartAGRI app password
+EMAIL_HOST_USER = ''   # type email of your gmail account
+EMAIL_HOST_PASSWORD = ''  # type the password for the SmartAGRI app
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'SmartAGRI Team <noreply@djangosmartagri.com>'
