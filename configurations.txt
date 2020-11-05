@@ -1,0 +1,63 @@
+The following are completely restricted to LINUX based OS
+
+Step 1: - Create a folder 'project' or any folder name,
+  code: - mkdir project
+  
+    All the below steps happen in this 'project' folder.
+
+Step 2: - Create a Virtual Environment named 'env' or any name,
+  code: - python3 -m venv env
+
+Step 3: - Activate the Virtual Environment,
+  code: - source env/bin/activate
+  
+    All the below steps must be done in the virtual environment 'env'
+  
+Step 4: - Download Django and all the dependencies, use the dependencies.txt file
+  code: - pip install -r dependencies.txt
+
+Step 5: - Create a Django Project,
+  code: - django-admin startproject django_project
+      A python file named 'manage.py' will be created after the execution of the above code.
+      
+      Jump to step 7 to avoid this step 5
+
+Step 6: - Create a Django app which hold the UI,
+  code: - django-admin startapp blog
+      
+      Jump to step 7 to avoid this step 6
+
+Step 7: - Copy the folders blog and django_project and 'manage.py' from this github repository (in source code directory) 
+          and paste them to avoid Step 5 and Step 6.
+
+Step 8: - Create another Django app which processes LOGIN and REGISTRATION tasks
+  code: - django-admin startapp users
+    
+    Jump to step 9 to avoid this step 8
+
+Step 9: - Copy the folder users from this github repository (in source code directory) and paste it to avoid Step 8.
+
+Step 10: - Copy the folder media from this github repository (in source code directory)
+
+Step 11: - Now follow the codes for the execution of the entire project to launch the webapp,
+  code: - 
+          python manage.py makemigrations
+          python manage.py migrate
+          python manage.py runserver
+            
+            After the execution of the above commands a url 
+                              http://127.0.0.1:8000/ 
+            will be shown where the web app is currently running through the local machine
+
+Step 12: - Run Step 11 once any changes are made in the 'models.py', 'views.py', 'urls.py' in either of the 'blog' or 'users' folders.
+
+Step 13:- Run the command
+              python manage.py runserver
+          once if no changes are made to the files in Step 12.
+          
+          Also the command
+              python manage.py runserver
+          can be run only once to launch the webapp in the web browser and any changes to the '.html' 
+          files in the 'blog' or 'users' folders will automatically accept them and to see the output 
+          the page can be reloaded in the web browser.
+
