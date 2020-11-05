@@ -41,11 +41,10 @@ Technologies used: -
 
 # NOTE: -
 
-### 1. Please follow the instructions in _configurations.txt_ file for smooth configuration of the project.
+#### 1. Please follow the instructions in _configurations.txt_ file for smooth configuration of the project.
+#### 2. Please check the *misc* directory for the _ML_ *implementation*.
+#### 3. Please watch out for _Readme.md_ files in the folder, '_docs_', '_source code_', and '_misc_'.
 
-### 2. Please check the __*misc*__ directory for the _**ML**_ **implementation**.
-
-### 3. Please watch out for _Readme.md_ files in the folder, '_docs_', '_source code_', and '_misc_'.
 
 # A view of the web Application
 
