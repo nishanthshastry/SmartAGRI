@@ -45,7 +45,7 @@ Technologies used: -
 
 ### 2. Please check the __*misc*__ directory for the _**ML**_ **implementation**.
 
-### 3. Please watch out for Readme.md files in the folder, '_docs_', '_source code_', and '_misc_'.
+### 3. Please watch out for _Readme.md_ files in the folder, '_docs_', '_source code_', and '_misc_'.
 
 # A view of the web Application
 
