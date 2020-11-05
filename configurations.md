@@ -1,8 +1,10 @@
 The following are completely restricted to LINUX based OS
 
 Step 1: - Create a folder 'project' or any folder name,
-  code: - mkdir project
-  
+  code: - 
+  ```
+      mkdir project
+  ```
     All the below steps happen in this 'project' folder.
 
 Step 2: - Create a Virtual Environment named 'env' or any name,
