@@ -41,3 +41,6 @@ Technologies used: -
 
 
 ### Please check the __*misc*__ directory for the _**ML**_ **implementation**.
+
+## A view of the web Application
+
