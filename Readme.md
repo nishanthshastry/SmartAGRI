@@ -43,6 +43,8 @@ Technologies used: -
 
 ### Please check the __*misc*__ directory for the _**ML**_ **implementation**.
 
+### Please watch out for Readme.md files in the folder, '_docs_', '_source code_', and '_misc_'.
+
 ## A view of the web Application
 
 ![Image of the webapp](https://github.com/nishanthshastry/SmartAGRI/blob/main/webapp.png)
